@@ -1,0 +1,72 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  max-width: 1150px;
+  margin: 0 auto;
+  font-family: "Ubuntu";
+  color: #fff;
+  padding-top: 112px;
+  padding-bottom: 98px;
+}
+
+.discript{
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  display: block;
+  margin-bottom: 36px;
+  
+}
+
+.head{
+  font-weight: normal;
+  font-style: 56px;
+  text-align: center;
+  margin-bottom: 36px;
+}
+.underhead{
+  display: block;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 300;
+  margin-bottom: 265px;
+}
+.form{
+  width: 600px;
+  margin: 0 auto;
+  padding: 0;
+  margin-bottom: 50px;
+}
+.input{
+  margin: -3px;
+  width: 218px;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 12px 10px 14px 40px;
+  height: 50px;
+}
+.button{
+  width: 160px;
+  margin: -2px;
+  height: 50px;
+  border:none;
+  font-weight: 300;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #1abc9c;
+
+}
+.text{
+  text-align: center;
+  line-height: 27px;
+  font-size: 16px;
+  font-weight: 300;
+  
+}
